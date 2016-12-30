@@ -6,7 +6,6 @@
 
 **效果如下：**
 
-### Syntax
 
 ![效果图](https://github.com/MisterZhouZhou/ZWWeiBoPersonCenter/blob/master/show.gif)
 
